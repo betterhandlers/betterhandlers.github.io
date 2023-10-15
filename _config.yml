@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: Better Handlers
 description: Leave it to us!
 plugins:
--jekyll-remote-theme
+- jekyll-remote-theme
